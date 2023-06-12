@@ -1,4 +1,6 @@
 def modify_str_upper(origin_str: str):
+    """Возвращает cтроку в верхнем регистре,
+    поступившей на вход функции"""
     return origin_str.upper()
 
 
